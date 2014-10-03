@@ -1,0 +1,1 @@
+This is just the Ember To Do list tutorial. After using Subversive SVN, I'm also getting back into the habit of using Git, and Github.
